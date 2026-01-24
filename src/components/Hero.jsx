@@ -74,7 +74,7 @@ const Hero = () => {
             <a href="https://github.com/Haris-Rindh" target="_blank" className="text-slate-400 hover:text-white transition-colors text-3xl transform hover:scale-110 duration-200"><i className="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/harisrindh" target="_blank" className="text-slate-400 hover:text-blue-400 transition-colors text-3xl transform hover:scale-110 duration-200"><i className="fab fa-linkedin"></i></a>
             <a href="mailto:haris.rindh.pk@gmail.com" className="text-slate-400 hover:text-red-500 transition-colors text-3xl transform hover:scale-110 duration-200"><i className="fas fa-envelope"></i></a>
-            <a href="https://www.fiverr.com/harisrindh" target="_blank" className="text-slate-400 hover:text-green-500 transition-colors text-3xl transform hover:scale-110 duration-200"><i className="fas fa-briefcase"></i></a>
+            <a href="https://www.fiverr.com/haris_rindh" target="_blank" className="text-slate-400 hover:text-green-500 transition-colors text-3xl transform hover:scale-110 duration-200"><i className="fas fa-briefcase"></i></a>
         </div>
       </div>
     </section>
