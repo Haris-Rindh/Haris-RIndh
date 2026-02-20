@@ -76,16 +76,6 @@ As a freelancer on [Fiverr](https://www.fiverr.com/haris_rindh), I have delivere
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harisrindh&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=000000" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harisrindh&theme=midnight-owl&hide_border=true&background=000000" alt="Streak" />
-</div>
-
----
-
 <div align="center">
   <h3>Let's Build Something Meaningful.</h3>
   <p>Open to inquiries regarding <b>Web Development</b>, <b>AI Integration</b>, or <b>Internship Opportunities</b>.</p>
