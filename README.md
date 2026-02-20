@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="![Haris rindh](https://github.com/user-attachments/assets/8f4bf434-92e6-4563-bcbd-f648078a36a9)"
- alt="Header" />
+  <img src="https://github.com/user-attachments/assets/8f4bf434-92e6-4563-bcbd-f648078a36a9" alt="Haris rindh Header" />
 </div>
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/harisrindh" target="_blank">Haris Rindh</a> 👋</h1>
