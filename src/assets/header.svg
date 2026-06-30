@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Haris Rindh header">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" fill="#0f172a" />
+  <rect width="1200" height="260" fill="url(#g)" opacity="0.08" />
+  <g font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="60" y="110" font-size="48" font-weight="700">Haris Rindh</text>
+    <text x="60" y="160" font-size="20" fill="#e2e8f0">Software Engineering Student • Full‑Stack Developer • MERN</text>
+  </g>
+  <g transform="translate(980,40)">
+    <rect x="0" y="0" rx="8" ry="8" width="200" height="80" fill="#0ea5a4" opacity="0.12" />
+    <text x="12" y="50" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#06b6d4">Multan, Pakistan 🇵🇰</text>
+  </g>
+</svg>
