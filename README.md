@@ -1,56 +1,47 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f4bf434-92e6-4563-bcbd-f648078a36a9" alt="Haris rindh Header" />
+  <!-- Repo-hosted header image -->
+  <img src="./src/assets/header.svg" alt="Haris Rindh — Developer header" width="900" />
 </div>
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/harisrindh" target="_blank">Haris Rindh</a> 👋</h1>
+# Hi there, I'm Haris Rindh 👋
 
-<p align="center">
-  <b>Software Engineering Student (6th Sem) @ Virtual University</b><br>
-  <i>Based in Multan, Pakistan 🇵🇰</i>
-</p>
+**Software Engineering Student (6th Semester) @ Virtual University**  
+Based in Multan, Pakistan 🇵🇰
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harisrindh">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:haris.rindh.pk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/haris_rindh">
-    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/harisrindh) · haris.rindh.pk@gmail.com · [Fiverr](https://www.fiverr.com/haris_rindh)
+
+---
+
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Project Showcase](#project-showcase)
+- [Professional & Client Work](#professional--client-work)
+- [Contact](#contact)
+- [License](#license)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a software engineer who bridges the gap between **Complex Logic** and **Business Value**. 
+I'm a Software Engineering student who bridges the gap between complex logic and business value. I focus on full‑stack (MERN) development and building resilient AI integrations such as failover architectures for AI APIs to improve uptime and reliability.
 
-Currently, I am a 6th-semester student at **Virtual University**, diving deep into **Assembly Language (CS401)** and **Advanced Data Structures**. Outside of academics, I run **Harinova Digital**, helping businesses in Multan establish their digital presence, and I am actively building AI-integrated SaaS products.
-
-* **Core Focus:** MERN Stack and Full-stack development.
-* **Professional Goal:** Seeking a challenging **Summer 2026 Internship** at top-tier firms like **Systems Limited** or **NetSol**.
-* **Current Innovation:** Developing failover architectures for AI APIs to ensure 100% uptime.
+- Core Focus: MERN stack, full‑stack development  
+- Professional Goal: Seeking a Summer 2026 internship (e.g., Systems Limited, NetSol)  
+- Currently building: AI failover systems and UI-first SaaS experiences
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+Frontend
+- React, React Three Fiber / three.js, Tailwind CSS, Framer Motion
 
-**Backend & Architecture**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+Backend & Architecture
+- Node.js, Express, MongoDB
 
-**Tools**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+Tools
+- Postman, Git, VS Code
 
 ---
 
@@ -58,20 +49,22 @@ Currently, I am a 6th-semester student at **Virtual University**, diving deep in
 
 ### 🚀 Major Applications
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Nexus AI](https://nexus-ai-mocha-phi.vercel.app/)** | **SaaS Product.** A LinkedIn content generator featuring a custom **AI Failover System**. If OpenAI fails, it auto-switches to Anthropic/Local LLMs. | MERN, OpenAI API, Node Streams |
-| **[Book Sphere](https://haris-rindh.github.io/Book-Sphere/)** | **E-Commerce/Library.** A comprehensive platform for browsing and managing books with a robust backend search engine. | React, Node.js, MongoDB |
-| **[3D Portfolio](https://harisrindh.netlify.app/)** | **Interactive Web.** My developer portfolio featuring real-time 3D rendering and physics-based animations. | React Three Fiber, Framer Motion |
+| Project | Description | Repo / Live |
+| --- | --- | --- |
+| **Nexus AI** | SaaS LinkedIn content & carousel builder with an AI failover system that automatically switches providers (OpenAI → Anthropic / backups) to preserve continuity. Features post generation, content carousel builder, and scheduling. | Live: https://nexus-ai-mocha-phi.vercel.app/ · Repo: https://github.com/Haris-Rindh/NexusAI |
+| **Book Sphere** | E‑Commerce / Library UI for browsing, searching, and managing books. Includes a backend search engine and a responsive catalog UI. | Live: https://haris-rindh.github.io/Book-Sphere/ · Repo: https://github.com/Haris-Rindh/Book-Sphere |
+| **3D Portfolio** | Interactive developer portfolio with real‑time 3D rendering and physics-based animations (React + Three.js). | Live: https://harisrindh.netlify.app/ · Repo: https://github.com/Haris-Rindh/Old-Portfolio |
 
-### 💼 Professional & Client Work (Fiverr/Harinova)
+(For each project above, open the project's README for more details and "Run locally" steps.)
 
-As a freelancer on [Fiverr](https://www.fiverr.com/haris_rindh), I have delivered tailored web solutions for various industries:
+---
 
-* **Real Estate Platform:** Property listing site with high-resolution gallery optimization.
-* **Dental Clinic Portal:** Appointment booking system with a clean, medical-grade UI.
-* **Restaurant App:** Digital menu and reservation frontend.
-* **Plumbing Service Site:** Local SEO-optimized landing page for service bookings.
+## 💼 Professional & Client Work (Fiverr / Harinova)
+Representative client work:
+- Real Estate Platform — image optimization + listing UX
+- Dental Clinic Portal — appointment booking system
+- Restaurant App — digital menu + reservation frontend
+- Plumbing Service Site — local SEO optimized landing pages
 
 ---
 
@@ -82,3 +75,17 @@ As a freelancer on [Fiverr](https://www.fiverr.com/haris_rindh), I have delivere
     <a href="https://www.linkedin.com/in/harisrindh">Connect on LinkedIn ➜</a>
   </p>
 </div>
+
+---
+
+## Contact
+- Email: haris.rindh.pk@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/harisrindh  
+- Fiverr: https://www.fiverr.com/haris_rindh
+
+Open to Web Development, AI Integration, and Internship opportunities.
+
+---
+
+## License
+This repository does not include a LICENSE file yet. Consider adding an MIT license if you want permissive reuse.
