@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/harisrindh" target="_blank">Haris Rindh</a> 👋</h1>
 
 <p align="center">
-  <b>Software Engineering Student (5th Sem) @ Virtual University</b><br>
+  <b>Software Engineering Student (6th Sem) @ Virtual University</b><br>
   <i>Based in Multan, Pakistan 🇵🇰</i>
 </p>
 
@@ -27,7 +27,7 @@
 
 I am a software engineer who bridges the gap between **Complex Logic** and **Business Value**. 
 
-Currently, I am a 5th-semester student at **Virtual University**, diving deep into **Assembly Language (CS401)** and **Advanced Data Structures**. Outside of academics, I run **Harinova Digital**, helping businesses in Multan establish their digital presence, and I am actively building AI-integrated SaaS products.
+Currently, I am a 6th-semester student at **Virtual University**, diving deep into **Assembly Language (CS401)** and **Advanced Data Structures**. Outside of academics, I run **Harinova Digital**, helping businesses in Multan establish their digital presence, and I am actively building AI-integrated SaaS products.
 
 * **Core Focus:** MERN Stack and Full-stack development.
 * **Professional Goal:** Seeking a challenging **Summer 2026 Internship** at top-tier firms like **Systems Limited** or **NetSol**.
